@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ML, Data Science, Data Structures, Algorithms**
 
-- 📫 How to reach me **aditya.kumar_cs19@gla.ac.in**
+- 📫 How to reach me **akraghav456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
