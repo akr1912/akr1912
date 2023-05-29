@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Hand Gesture using AI**
 
-- 🌱 I’m currently learning **React, AI & ML, JavaScript, META**
+- 🌱 I’m currently learning **Generative AI, Deep Learning**
 
 - 👯 I’m looking to collaborate on [Google KickStart](https://codingcompetitions.withgoogle.com/kickstart)
 
